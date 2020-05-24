@@ -1,0 +1,6 @@
+# Ignore .terraform folder --> created on "terraform init"
+/.terraform
+
+# Terraform state file and backup
+terraform.tfstate
+terraform.tfstate.backup
